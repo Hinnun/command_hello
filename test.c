@@ -2,5 +2,7 @@
 
 int main()
 {
-	printf("Hello world\n");
+	printf("Hello  Git world\n");
+	pritnf("Tesll Your World");
+	return 0;
 }
